@@ -1,2 +1,14 @@
-# Task_Manager_App
-I've completed the Task Manager React assignment.   ✅ All features are working: - Add/delete tasks - Dark/light theme toggle - Responsive design - Theme persistence
+# Advanced Task Manager App
+
+## Features
+- Add / Delete / Complete Tasks
+- LocalStorage persistence
+- Context API
+- Custom Hooks
+- Dark / Light mode
+- Filtering
+- Performance optimization
+
+## Run Project
+npm install
+npm run dev
